@@ -101,13 +101,43 @@ $300 MXN
 Servicio Clipper:
 $580 MXN
 
-Notas visibles:
+# MENSAJE DE MARCA
+(Contexto interno para interpretar comunicación del negocio)
 
-"Misma calidad"
+El equipo actual proviene de experiencia previa trabajando juntos y ahora opera bajo este nuevo espacio.
 
-"Nuevo espacio"
+No comunicar transición, mudanza o sensación de negocio nuevo.
 
-"Mejores vibras"
+La percepción deseada es:
+
+- Negocio establecido
+- Experiencia consolidada
+- Evolución natural
+- Mayor comodidad para clientes y equipo
+- Continuidad en calidad y servicio
+
+Interpretar mensajes existentes como:
+
+"Misma calidad" →
+Mantener el estándar de servicio.
+
+"Nuevo espacio" →
+Mejor experiencia y entorno.
+
+"Mejores vibras" →
+Ambiente más cómodo y experiencia mejorada.
+
+Evitar mensajes como:
+
+"Recién abrimos"
+
+"Nos mudamos"
+
+"Nueva ubicación"
+
+"Antes estábamos en otro lugar"
+
+Priorizar percepción de permanencia y confianza a largo plazo.
 
 Lema visible:
 
@@ -184,6 +214,56 @@ Teléfono
 Dirección
 
 ---
+for the main hero section I want it to focus on booking so I want to go straight away to date and time. then services. after that it checks availabiblty and option to pay online. so like the hero it all minimalistic and dark I want logo centered and then just like an apple date and time selector is just waiting there for you. we are not tryna sell not tryna convince. after that we can have the portfolio images and all that and location and pricing and all service details but yeah I want the main landing to be booking and then everything else secondary. 
+
+oye pero tambien me gustaria que muestre El calendario de bookings ASI como si estuviera comprando un vuelo
+
+# CONTEXTO DEL CLIENTE (NO COPIAR COMO TEXTO AL SITIO)
+
+Este negocio no busca que el sitio funcione como una landing page tradicional.
+
+La intención no es convencer al visitante ni vender con texto.
+
+La idea es asumir que gran parte del tráfico ya decidió cortarse el cabello y está entrando para resolver:
+
+"¿Cuándo puedo ir?"
+
+Por eso la reserva debe sentirse inmediata.
+
+Preferencia del cliente:
+
+Que el usuario vea disponibilidad desde el inicio y pueda empezar el proceso de reserva rápidamente.
+
+Inspiración conceptual:
+
+Más cercano a reservar un vuelo o elegir una mesa que a llenar un formulario.
+
+Se busca una sensación:
+
+- Directa
+- Moderna
+- Silenciosa
+- Premium
+- Ordenada
+
+La disponibilidad se siente más importante que el marketing.
+
+Orden mental esperado del usuario:
+
+1. Elegir cuándo ir
+2. Elegir horario
+3. Elegir servicio
+4. Confirmar
+5. Pagar
+6. Quedar registrado
+
+No hacer que el usuario lea mucho antes de poder reservar.
+
+El negocio ya administra citas usando Google Calendar.
+
+Objetivo futuro:
+
+Que reservas y pagos se conecten automáticamente al sistema existente.
 
 # REDES Y ENLACES
 
@@ -191,4 +271,293 @@ Instagram:
 https://www.instagram.com/clipper_barberstudio
 
 Google:
-https://share.google/PzkHDY4pV1tRNR8oF
+https://share.google/PzkHDY4pV1tRNR8oF # EXPERIENCIA DE RESERVA
+
+La experiencia principal del sitio debe sentirse más cercana a reservar un vuelo que a llenar un formulario.
+
+Objetivo:
+
+Entrar al sitio y entender inmediatamente cuándo hay disponibilidad.
+
+No ocultar disponibilidad detrás de botones.
+
+Mostrar disponibilidad desde la primera pantalla.
+
+---
+
+# FLUJO PRINCIPAL
+
+Seleccionar fecha
+
+↓
+
+Ver horarios disponibles
+
+↓
+
+Seleccionar servicio
+
+↓
+
+Confirmar disponibilidad
+
+↓
+
+Pago en línea
+
+↓
+
+Reserva confirmada
+
+↓
+
+Crear evento automáticamente en Google Calendar
+
+---
+
+# VISUALIZACIÓN DE DISPONIBILIDAD
+
+El sistema de horarios debe ser visual.
+
+Inspiración:
+
+Calendarios de vuelos y hoteles.
+
+Comportamiento esperado:
+
+Mostrar días disponibles.
+
+Mostrar días llenos.
+
+Mostrar horarios ocupados.
+
+Mostrar horarios disponibles.
+
+Permitir cambiar entre días rápidamente.
+
+Ejemplo conceptual:
+
+JULIO
+
+LUN 1
+10:00
+11:00
+14:00
+
+MAR 2
+—
+LLENO
+
+MIE 3
+09:00
+12:00
+17:00
+
+JUE 4
+11:00
+13:00
+
+Seleccionar horario directamente.
+
+---
+
+# PRIORIDAD DE INTERFAZ
+
+La disponibilidad es el contenido principal.
+
+Los servicios son secundarios.
+
+El usuario primero decide:
+
+¿Cuándo?
+
+Después:
+
+¿Qué servicio?
+
+---
+
+# HERO / PRIMERA PANTALLA
+
+Elementos principales:
+
+Logo
+
+Calendario
+
+Horarios
+
+Botón continuar
+
+No mostrar primero:
+
+Galería
+
+Reseñas
+
+Texto largo
+
+Promociones
+
+Explicaciones
+
+La primera pantalla debe sentirse como abrir una app de reservas.
+
+---
+
+# DISPONIBILIDAD
+
+La disponibilidad debe reflejar el calendario real del negocio.
+
+Fuente de verdad:
+
+Google Calendar utilizado actualmente por el negocio.
+
+Evitar doble captura manual de citas.
+
+La reserva debe respetar horarios ya ocupados.
+# EXPERIENCIA DE RESERVA
+
+La experiencia principal del sitio debe sentirse más cercana a reservar un vuelo que a llenar un formulario.
+
+Objetivo:
+
+Entrar al sitio y entender inmediatamente cuándo hay disponibilidad.
+
+No ocultar disponibilidad detrás de botones.
+
+Mostrar disponibilidad desde la primera pantalla.
+
+---
+
+# FLUJO PRINCIPAL
+
+Seleccionar fecha
+
+↓
+
+Ver horarios disponibles
+
+↓
+
+Seleccionar servicio
+
+↓
+
+Confirmar disponibilidad
+
+↓
+
+Pago en línea
+
+↓
+
+Reserva confirmada
+
+↓
+
+Crear evento automáticamente en Google Calendar
+
+---
+
+# VISUALIZACIÓN DE DISPONIBILIDAD
+
+El sistema de horarios debe ser visual.
+
+Inspiración:
+
+Calendarios de vuelos y hoteles.
+
+Comportamiento esperado:
+
+Mostrar días disponibles.
+
+Mostrar días llenos.
+
+Mostrar horarios ocupados.
+
+Mostrar horarios disponibles.
+
+Permitir cambiar entre días rápidamente.
+
+Ejemplo conceptual:
+
+JULIO
+
+LUN 1
+10:00
+11:00
+14:00
+
+MAR 2
+—
+LLENO
+
+MIE 3
+09:00
+12:00
+17:00
+
+JUE 4
+11:00
+13:00
+
+Seleccionar horario directamente.
+
+---
+
+# PRIORIDAD DE INTERFAZ
+
+La disponibilidad es el contenido principal.
+
+Los servicios son secundarios.
+
+El usuario primero decide:
+
+¿Cuándo?
+
+Después:
+
+¿Qué servicio?
+
+---
+
+# HERO / PRIMERA PANTALLA
+
+Elementos principales:
+
+Logo
+
+Calendario
+
+Horarios
+
+Botón continuar
+
+No mostrar primero:
+
+Galería
+
+Reseñas
+
+Texto largo
+
+Promociones
+
+Explicaciones
+
+La primera pantalla debe sentirse como abrir una app de reservas.
+
+---
+
+# DISPONIBILIDAD
+
+La disponibilidad debe reflejar el calendario real del negocio.
+
+Fuente de verdad:
+
+Google Calendar utilizado actualmente por el negocio.
+
+Evitar doble captura manual de citas.
+
+La reserva debe respetar horarios ya ocupados.
