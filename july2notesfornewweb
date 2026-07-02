@@ -1,1 +1,36 @@
 I'd reduce the hero height by about 30–40%.
+
+2. Calendar needs to feel more "alive"
+
+The concept is excellent.
+
+But visually it still reads a little like:
+
+I'd push Claude toward:
+
+clearer selected state
+stronger hover states
+more distinction between available and unavailable days
+slightly larger click targets
+
+3. Services card
+
+I'd make the currently selected service more obvious.
+
+Right now it blends in a bit.
+
+This is where a subtle accent color could help. (we only have black and white so work with gradients or textures) 
+
+5. Map
+
+Right now the map looks like an embed.
+
+I'd style the container more so it feels integrated with the site.
+
+istead of the map i want sattelite view 
+
+Because the homepage is booking-first, I'd reinforce trust inside the booking card instead of elsewhere.
+
+Abierto hoy hasta las 7:00 PM
+
+Tiny pieces of reassurance right where the user is deciding to book.
