@@ -561,3 +561,66 @@ Google Calendar utilizado actualmente por el negocio.
 Evitar doble captura manual de citas.
 
 La reserva debe respetar horarios ya ocupados.
+# PREFERENCIA DE INTERACCIÓN — CALENDARIO
+(CONTEXTO DEL CLIENTE — NO COPIAR COMO TEXTO AL SITIO)
+
+Para seleccionar fecha, la preferencia es una interfaz de calendario visible.
+
+No usar como experiencia principal:
+
+- Selector scroll tipo rueda
+- Inputs de fecha tradicionales
+- Dropdowns
+- Selectores escondidos
+
+Preferencia:
+
+Mostrar un calendario directamente en pantalla.
+
+La sensación buscada es:
+
+"Estoy viendo disponibilidad"
+
+más que
+
+"Estoy llenando un formulario"
+
+El calendario debe sentirse como una superficie principal del sitio.
+
+El usuario debe poder entender rápidamente:
+
+- Qué días existen
+- Qué días tienen disponibilidad
+- Qué días están llenos
+- Qué día está seleccionado
+
+La selección de fecha debe sentirse táctil y visual.
+
+Comportamiento adaptable:
+
+Desktop:
+Preferencia por calendario visible tipo caja.
+
+Mobile:
+Puede transformarse a una experiencia más compacta si el espacio lo requiere.
+
+Si el diseño necesita comprimirse:
+
+Aceptar transición a formato horizontal tipo pills para días disponibles.
+
+Ejemplo conceptual:
+
+[ HOY ]
+[ MAÑANA ]
+[ JUE ]
+[ VIE ]
+
+Pero solo como adaptación.
+
+La intención principal sigue siendo conservar sensación de calendario.
+
+Inspiración conceptual:
+
+Ver disponibilidad como una reserva.
+
+No como un formulario administrativo.
